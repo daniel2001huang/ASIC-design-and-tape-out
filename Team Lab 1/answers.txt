@@ -1,0 +1,18 @@
+================= ECEN 689 Lab 8 answers =================
+Team number: ____
+Members present: ____
+
+A1 (paste the ANALYZE_RC line from Step 3): CORE_MAKE_RC=0
+
+A2 (paste the DESIGN_OK line from Step 4): DESIGN_OK team1 menu=M
+
+A3 (paste the SIM_RC line from Step 5): 
+ALL MULTIPLY TESTS PASSED (7 vectors)
+SIM RC=0
+
+A4 (paste the "Chip area" line from Step 6):   Chip area for top module '\microwatt_top': 4765381.628797 
+
+A5 (your menu letter S / M / L): M
+
+A6 (fit check: does A4 pass the 5,800,000 limit? YES/NO): Yes
+==========================================================
